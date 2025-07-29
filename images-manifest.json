@@ -1,0 +1,111 @@
+{
+  "generated_at": "2025-07-29T09:41:26.684Z",
+  "total_images": 15,
+  "images": [
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/BILA-LOGO.png",
+      "file_path": "public/images/logo-vseprostavby.png",
+      "file_name": "logo-vseprostavby.png",
+      "description": "A minimalist line-art logo of a house outline in dark green, with two lighter green squares representing windows and a light green rectangle representing a partially open door. Context: Found as the primary logo on the website. A simple, recognizable icon that needs to be updated to match the new design aesthetic, potentially with a more modern feel or integrated with the company name more clearly.",
+      "size_bytes": 210273
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/TANVALD2-scaled-1.jpg",
+      "file_path": "public/images/project-tanvald-cottage-renovation-exterio.jpg",
+      "file_name": "project-tanvald-cottage-renovation-exterio.jpg",
+      "description": "A two-story cottage with a dark brown upper facade and roof, and a newly renovated light-colored lower facade. Lush green trees and grass surround the house under a partly cloudy sky. There's a person standing by the building on the right. Context: Found in the 'Our Latest Projects' section, specifically for the 'Omlazení Chalupy u Tanvaldu' project. It showcases the completed exterior renovation, demonstrating the company's work with facade and insulation plaster. Good quality, shows 'after' state.",
+      "size_bytes": 690823
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/RDPO.jpg",
+      "file_path": "public/images/project-family-house-reconstruction-exterior.jpg",
+      "file_name": "project-family-house-reconstruction-exterior.jpg",
+      "description": "A two-story family house with a light-colored facade and a dark grey tiled roof, featuring dark-framed windows. Two cars are parked on the street in front of the house, and a small fence is visible. The sky is clear with a hint of dusk. Context: Appears to be an 'after' photo of a completed residential reconstruction project. Good quality and represents a finished project.",
+      "size_bytes": 558411
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/TANVALD2.jpg",
+      "file_path": "public/images/project-tanvald-cottage-renovation-exterio.jpg",
+      "file_name": "project-tanvald-cottage-renovation-exterio.jpg",
+      "description": "A two-story cottage with a dark brown upper facade and roof, and a newly renovated light-colored lower facade. Lush green trees and grass surround the house under a partly cloudy sky. There's a person standing by the building on the right. Context: Found in the 'Our Latest Projects' and 'References' sections for the Tanvald cottage project. This is a larger version of Image ID 1 and shows the completed outdoor renovation.",
+      "size_bytes": 886649
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/NOVY_TANVALD3-scaled-1.jpg",
+      "file_path": "public/images/project-tanvald-cottage-renovation-side-after.jpg",
+      "file_name": "project-tanvald-cottage-renovation-side-after.jpg",
+      "description": "A two-story cottage with a dark brown upper facade and roof, and a newly renovated light-colored lower facade, viewed from the side. The house is surrounded by green trees under a clear blue sky. Signs of ongoing landscape work or recent construction are visible in the foreground. Context: Found in the 'Our Latest Projects' and 'References' sections for the Tanvald cottage project. Shows another angle of the completed exterior, highlighting the new facade and roof.",
+      "size_bytes": 742175
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/NOVY_TANVALD2-scaled-1.jpg",
+      "file_path": "public/images/project-tanvald-cottage-renovation-front-after.jpg",
+      "file_name": "project-tanvald-cottage-renovation-front-after.jpg",
+      "description": "A two-story cottage with a dark brown upper facade and roof, and a newly renovated light-colored lower facade, viewed from the front. The house is surrounded by green trees under a clear blue sky. Context: Found in the 'Our Latest Projects' and 'References' sections for the Tanvald cottage project. Offers a clear view of the front of the renovated building.",
+      "size_bytes": 780486
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/RDPO2-1-scaled-1.jpg",
+      "file_path": "public/images/project-large-house-facade-after.jpg",
+      "file_name": "project-large-house-facade-after.jpg",
+      "description": "A modern, large residential building with a smooth, light-colored facade and dark windows, viewed from an angle revealing multiple wings. The building appears recently completed or renovated, with clear lines and a clean appearance. Context: Found in the 'References' section, likely showcasing a completed facade renovation. This 'after' photo is high quality and highlights the company's finishing work.",
+      "size_bytes": 364404
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/JEVANY-scaled-1.jpg",
+      "file_path": "public/images/project-jevany-new-construction-side.jpg",
+      "file_name": "project-jevany-new-construction-side.jpg",
+      "description": "A newly constructed, modern two-story house with a light-colored facade and dark roof, seen from a side-rear angle. The foreground shows construction ground, while other houses and greenery are visible in the background under a blue sky. Context: Found in the 'References' section, likely for a new construction project in Jevany. It effectively showcases the contemporary design and clean finishing of a new build.",
+      "size_bytes": 315921
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/JEVANY3.jpg",
+      "file_path": "public/images/project-jevany-new-construction-rear.jpg",
+      "file_name": "project-jevany-new-construction-rear.jpg",
+      "description": "A newly constructed, modern two-story house with a sharp-angled dark roof and white facade, seen from the rear corner. The ground around the house is still bare earth from construction, with trees in the background under a bright sky. Context: Found in the 'References' section, likely for a new construction project in Jevany. Provides a good view of the building's contemporary architecture and clean facade.",
+      "size_bytes": 349730
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2020/08/JEVANY2-scaled-1.jpg",
+      "file_path": "public/images/project-jevany-new-construction-front-side.jpg",
+      "file_name": "project-jevany-new-construction-front-side.jpg",
+      "description": "A newly constructed, modern two-story house with a light-colored facade and dark roof, seen from a front-side angle. The foreground shows construction ground, and sparse trees are visible in the background under a clear sky. Context: Found in the 'References' section, likely for a new construction project in Jevany. It highlights the modern design and simplicity of the exterior finish.",
+      "size_bytes": 262005
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/BRNO_PO-3.jpg",
+      "file_path": "public/images/project-brno-office-facade-after.jpg",
+      "file_name": "project-brno-office-facade-after.jpg",
+      "description": "The renovated facade of a multi-story orange office building with multiple windows and decorative architectural details, viewed from across the street. Several cars are parked along the curb in front of the building. The facade is clean and vibrant. Context: Found in the 'References' section, showcasing a completed office building facade renovation in Brno. This 'after' shot is clear and highlights the final aesthetic result.",
+      "size_bytes": 452581
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/ZP.jpg",
+      "file_path": "public/images/project-plot-utility-excavation.jpg",
+      "file_name": "project-plot-utility-excavation.jpg",
+      "description": "An yellow excavator digger on a grassy hill next to a road, where a trench is marked with red and white caution tape. Another digger is visible in the distance. A construction worker in red overalls and another person are also in the frame. Context: Found in the 'References' section, showcasing 'Zasíťování Pozemku' (plot utility networking). This image effectively shows the initial stages of infrastructure work.",
+      "size_bytes": 570718
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/ZP-2.jpg",
+      "file_path": "public/images/project-plot-utility-installation-worker.jpg",
+      "file_name": "project-plot-utility-installation-worker.jpg",
+      "description": "A construction worker in a hard hat and orange safety vest kneeling next to a deep trench, inspecting a large concrete utility pipe or manhole being installed. The trench is surrounded by excavated dirt. Context: Found in the 'References' section, showcasing 'Zasíťování Pozemku' (plot utility networking). It shows the installation phase of underground utilities, offering a detailed perspective of the work.",
+      "size_bytes": 757520
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/ZP-3.jpg",
+      "file_path": "public/images/project-plot-utility-team-laying-pipe.jpg",
+      "file_name": "project-plot-utility-team-laying-pipe.jpg",
+      "description": "Two construction workers in orange safety vests working in a narrow trench, with one actively engaged in laying a pipe or preparing the ground for utility installation. The trench is lined with white material and has a prepared bed of gravel. Context: Found in the 'References' section, showcasing 'Zasíťování Pozemku' (plot utility networking). It effectively demonstrates teamwork and the precision involved in laying infrastructure.",
+      "size_bytes": 394853
+    },
+    {
+      "original_url": "https://www.vseprostavby.cz/wp-content/uploads/2021/03/ZP-4.jpg",
+      "file_path": "public/images/project-plot-utility-trench-overview.jpg",
+      "file_name": "project-plot-utility-trench-overview.jpg",
+      "description": "A long, deep trench with two construction workers in the foreground installing pipes, and an excavator visible further down the trench. A large orange pipe lies next to the trench, and a ladder is propped against its side. The trench itself is prepared with a layer of aggregate. Context: Found in the 'References' section, showcasing 'Zasíťování Pozemku' (plot utility networking). This wide shot gives a comprehensive view of the utility installation process.",
+      "size_bytes": 748088
+    }
+  ]
+}
